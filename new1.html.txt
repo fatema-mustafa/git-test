@@ -1,4 +1,4 @@
 body 
 {
-<p> hiiiiiii </p> ;
+frontsize 80;
 }
